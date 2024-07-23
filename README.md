@@ -1,15 +1,4 @@
 <html>
-  <style>
-    .menu li{
-      color: rgb(0, 255, 0);
-    }
-    .menu ul li{
-      color: rgb(0, 119, 255);
-    }
-    .menu ul ul li {
-      color: rgb(8, 200, 214);
-    }
-  </style>
 <body>
     <h2>Table des matières</h2>
 <ul>
