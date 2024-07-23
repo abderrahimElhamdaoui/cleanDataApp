@@ -3,6 +3,7 @@
     <h2>Table des matières</h2>
 <ul>
   <li><a href="#définition">Définition</a></li>
+  <li><a href="#technologies_utilisees">Les technologies utilisées</a></li>
   <li><a href="#les-processus">Les processus</a>
     <ul>
       <li><a href="#lancer-lapplication">Lancer l’application</a></li>
@@ -22,6 +23,61 @@
 </ul>
 pour trouver une bon résultat.
 </p>
+
+<h2 id="technologies_utilisees">Les technologies utilisées</h2>
+<h4>Voici les technologies utilisées dans votre application de nettoyage de données développée avec Tkinter :</h4>
+<ul>
+  <li>Tkinter</li>
+  <ul>
+    <li>Utilisé pour créer l'interface graphique de l'application.</li>
+    <li>Composants utilisés : Canvas, Menu, Label, Button, Treeview, Scrollbar, etc.</li>
+  </ul>
+  <li>Scikit-learn</li>
+    <ul>
+    <li>Prétraitement des données, y compris la normalisation avec StandardScaler.</li>
+    <li>Division des ensembles de données en ensembles de formation et de test (train_test_split).</li>
+    <li>Modélisation prédictive avec divers algorithmes d'apprentissage automatique, notamment :</li>
+    <ul>
+      <li>Régression linéaire (LinearRegression)</li>
+      <li>Régression logistique (LogisticRegression)</li>
+      <li>Arbre de décision pour la régression et la classification (DecisionTreeRegressor, DecisionTreeClassifier)</li>
+      <li>Forêt aléatoire pour la régression et la classification (RandomForestRegressor, RandomForestClassifier)</li>
+      <li>K-plus proches voisins pour la régression et la classification (KNeighborsRegressor, KNeighborsClassifier)</li>
+    </ul>
+    <li>Équilibrage des classes avec RandomOverSampler d'imblearn.</li>
+    <li>Évaluation des modèles avec des métriques comme accuracy_score, recall_score, roc_auc_score, precision_score, f1_score, classification_report, confusion_matrix.</li>
+    </ul>
+  <li>Imbalanced-learn (imblearn)</li>
+     <ul><li>Traitement des jeux de données déséquilibrés avec RandomOverSampler.</li></ul>
+  <li>Matplotlib</li>
+    <ul>
+      <li>Utilisé pour créer des graphiques et des visualisations de données.</li>
+      <li>Intégré avec Tkinter via FigureCanvasTkAgg pour afficher les graphiques dans l'application.</li>
+    </ul>
+  <li>Seaborn</li>
+    <ul><li>Utilisé pour créer des graphiques statistiques, en particulier des histogrammes pour les variables catégorielles et continues.</li></ul>
+  <li>Pandas</li>
+    <ul>
+      <li>Utilisé pour lire et manipuler les datasets CSV.</li>
+      <li>Effectue des opérations comme le nettoyage de données, la suppression de colonnes, l'analyse des types de variables, etc.</li>
+    </ul>
+  <li>tkhtmlview</li>
+  <ul>
+    <li>Utilisé pour afficher du contenu HTML dans l'interface Tkinter.</li>
+  </ul>
+  <li>Numpy</li>
+    <ul>
+      <li>Utilisé pour des opérations numériques et des manipulations de données complémentaires.</li>
+    </ul>
+  <li>OS</li>
+    <ul>
+      <li>nteractions avec le système de fichiers.</li>
+    </ul>
+  <li>Missingno</li>
+    <ul>
+      <li>Visualisation des données manquantes.</li>
+    </ul>
+</ul>
 
 <h2 id="les-processus">Les processus</h2>
 
