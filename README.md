@@ -1,4 +1,15 @@
 <html>
+  <style>
+    .menu li{
+      color: rgb(0, 255, 0);
+    }
+    .menu ul li{
+      color: rgb(0, 119, 255);
+    }
+    .menu ul ul li {
+      color: rgb(8, 200, 214);
+    }
+  </style>
 <body>
     <h2>Table des matières</h2>
 <ul>
@@ -26,7 +37,7 @@ pour trouver une bon résultat.
 
 <h2 id="technologies_utilisees">Les technologies utilisées</h2>
 <h4>Voici les technologies utilisées dans votre application de nettoyage de données développée avec Tkinter :</h4>
-<ul>
+<ul class="menu">
   <li>Tkinter</li>
   <ul>
     <li>Utilisé pour créer l'interface graphique de l'application.</li>
