@@ -26,8 +26,8 @@ pour trouver une bon résultat.
 
 <h2 id="technologies_utilisees">Les technologies utilisées</h2>
 <h4>Voici les technologies utilisées dans votre application de nettoyage de données développée avec Tkinter :</h4>
-<ul class="menu">
-  <li style="color:red;">Tkinter</li>
+<ul>
+  <li>Tkinter</li>
   <ul>
     <li>Utilisé pour créer l'interface graphique de l'application.</li>
     <li>Composants utilisés : Canvas, Menu, Label, Button, Treeview, Scrollbar, etc.</li>
