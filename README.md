@@ -79,10 +79,34 @@ pour trouver une bon résultat.
 
 
 <h3 id="nettoyage-des-données">4. Nettoyage des données</h3>
+  <h4>Cliquer sur le menu "netouayer"</h4>
+  <p align="center">
+    <img src="./images/Nettoyage_donnee.png" alt="Nettoyage donnee">
+  </p>
 
+  <h4>Et après cliquer sur ok</h4>
+  <p align="center">
+    <img src="./images/clicker_ok.png" alt="Nettoyage donnee">
+  </p>
+
+  <h4>Et attendre quelque minute jusqu'à le traitement est fini.</h4>
+  <p align="center">
+    <img src="./images/attendre_quelque_minute.png" alt="Nettoyage donnee">
+  </p>
+
+  <h4>une fois le traitement est fini, on va afficher une message qui vous dit que le traitement est fini.
+avec une bouton pour télécharger le dataset nettoyer.</h4>
+  <p align="center">
+    <img src="./images/telecharger_dataset_nettoyer.png" alt="Nettoyage donnee">
+  </p>
+
+  <h4>Et après cliquer sur ok pour charger votre dataset nettoyer.</h4>
+      <p align="center">
+        <img src="./images/charger_dataset.png" alt="Nettoyage donnee">
+      </p>
 
 <h3 id="récupérer-les-données-nettoyées">5. Récupérer les données nettoyées</h3>
-<p>Instructions pour récupérer les données nettoyées...</p>
+ <h4>Finalement aller le dossier téléchargement à cote de l'application pour récupère le data nettoyer.</h4>
 
 </body>
 </html>
