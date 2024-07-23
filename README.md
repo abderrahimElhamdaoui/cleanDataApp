@@ -31,10 +31,19 @@ pour trouver une bon résultat.
  </p>
 
 <h3 id="choisir-le-dataset">2. Choisir le dataset</h3>
-<p>Instructions pour choisir le dataset...</p>
+  <h4>Cliquer sur ouvrir</h4>
+  <p align="center">
+  <img src="./images/choisir_dataset.png" alt="Choisir dataset">
+ </p>
+ <h4>Cliquer sur ouvrir et âpre choisir votre dataset</h4>
+  <p align="center">
+  <img src="./images/ouvrir.png" alt="ouvrir.png">
+ </p>
 
 <h3 id="lecture-du-dataset">3. Lecture du dataset</h3>
-<p>Instructions pour la lecture du dataset...</p>
+  <p align="center">
+  <img src="./images/lecture_dataset.png" alt="lecture dataset">
+ </p>
 
 <h3 id="nettoyage-des-données">4. Nettoyage des données</h3>
 <p>Instructions pour le nettoyage des données...</p>
